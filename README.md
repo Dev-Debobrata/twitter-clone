@@ -26,15 +26,8 @@ First, run the development server:
 npm run dev
 ```
 
-<Br /><Br />
-
-## Deployment
-
-Deployed using vercel.
-link:- [Twitter Clone](https://hulu-clone-destructor007.vercel.app)
-
 <Br/> <Br/>
 
 ## Preview
 
-<img src="./public/Screenshot from 2022-06-27 22-30-04.png" alt="preview"/>
+<img src="./public/twitterClonePreview.png" alt="preview"/>
